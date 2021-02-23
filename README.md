@@ -1,5 +1,6 @@
 # wingpos-core
 The core of wingpos, a back end built with web technologies.
+By default, it will use sqlite first.
 ----
 ## What is wingpos?
  - Wingpos is a modular POS suite that is designed to be affordable (Heck, even free!) for small stores.
