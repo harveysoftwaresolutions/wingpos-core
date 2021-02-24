@@ -1,0 +1,25 @@
+{
+  "name": "wingpos-core",
+  "version": "1.0.0",
+  "description": "Wingpos is a server for wingpos",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harveysoftwaresolutions/wingpos-core.git"
+  },
+  "author": "Raymond Dean",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/harveysoftwaresolutions/wingpos-core/issues"
+  },
+  "homepage": "https://github.com/harveysoftwaresolutions/wingpos-core#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "nedb": "^1.8.0",
+    "nodemon": "^2.0.7"
+  }
+}
